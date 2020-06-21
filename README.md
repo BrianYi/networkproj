@@ -36,8 +36,7 @@ make
 
 ### 结果
 
-![avatar](./lesson 1/boost_test/showcase/2020062110561477.png)]
-
+![avatar](./lesson%201/boost_test/showcase/2020062110561477.png)
 
 ## Lesson 2: socket封装
 
@@ -89,7 +88,7 @@ make
 
 ### 结果
 
-![avatar](./lesson 2/socket_programming/showcase/202006211050300001.png)]
+![avatar](./lesson%202/socket_programming/showcase/202006211050300001.png)]
 
 ## Lesson 3: 线程与线程池
 
@@ -138,7 +137,7 @@ make
 
 ### 结果
 
-![avatar](./lesson 3/threadpool/showcase/2020062111005978.png)]
+![avatar](./lesson%203/threadpool/showcase/2020062111005978.png)]
 
 ## Lesson 4: epoll与reactor模式
 
@@ -200,7 +199,7 @@ make
 
 ### 结果
 
-![avatar](./lesson 4/reactor_server/showcase/2020040720232216.png)]
+![avatar](./lesson%204/reactor_server/showcase/2020040720232216.png)]
 
 ## Lesson 5: 时间轮
 
@@ -255,7 +254,7 @@ make
 
 ### 结果
 
-![avatar](./lesson 5/timer/showcase/2020013114584486.gif)]
+![avatar](./lesson%205/timer/showcase/2020013114584486.gif)]
 
 # 作者
 
