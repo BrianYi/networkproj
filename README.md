@@ -34,6 +34,11 @@ make
 ./bin/test
 ```
 
+### 结果
+
+![avatar](./lesson 1/boost_test/showcase/2020062110561477.png)]
+
+
 ## Lesson 2: socket封装
 
 ### 目录树结构
@@ -82,6 +87,10 @@ make
 ./bin/main
 ```
 
+### 结果
+
+![avatar](./lesson 2/socket_programming/showcase/202006211050300001.png)]
+
 ## Lesson 3: 线程与线程池
 
 ### 目录树结构
@@ -126,6 +135,10 @@ lesson 3
 make
 ./bin/main
 ```
+
+### 结果
+
+![avatar](./lesson 3/threadpool/showcase/2020062111005978.png)]
 
 ## Lesson 4: epoll与reactor模式
 
@@ -185,6 +198,10 @@ make
 ./bin/main
 ```
 
+### 结果
+
+![avatar](./lesson 4/reactor_server/showcase/2020040720232216.png)]
+
 ## Lesson 5: 时间轮
 
 ### 目录树结构
@@ -235,6 +252,10 @@ lesson 5
 make
 ./bin/main
 ```
+
+### 结果
+
+![avatar](./lesson 5/timer/showcase/2020013114584486.gif)]
 
 # 作者
 
